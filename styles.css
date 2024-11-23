@@ -164,6 +164,11 @@ h1 {
 	padding: 10px;
 	border-radius: 10px;
 	margin-right: 10px;
+	width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-media {
